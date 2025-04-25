@@ -19,7 +19,7 @@ This project is a Java-based implementation of a task scheduling system that use
 > Replace the image paths (`/screenshots/...`) with actual file paths or image URLs in your repository.
 
 ### ➕ Add Task
-![Add Task Screenshot]([./screenshots/add-task.png](https://github.com/fahad-nakib/task_scheduler_algorithmProject_java/blob/0d5121546da243c06cc72fbca077796a58606abe/Images/Screenshot_22.png))
+![Add Task Screenshot](https://github.com/fahad-nakib/task_scheduler_algorithmProject_java/blob/main/Images/Screenshot_22.png)
 
 ### 🧭 Set Prerequisite
 ![Set Prerequisite Screenshot](https://github.com/fahad-nakib/task_scheduler_algorithmProject_java/blob/main/Images/Screenshot_36.png)
